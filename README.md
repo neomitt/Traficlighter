@@ -4,7 +4,7 @@ Traficlighter on android studio
 
 ![Screenshot](https://github.com/neomitt/Traficlighter/blob/main/screen.png)
 
-## The traffic lights change color when you click on them. Made with invisible buttons.
+## The traffic lights change color when you click on them. Made with invisible buttons
 
 ![Пример гифки](https://github.com/neomitt/Traficlighter/blob/main/video_2023-12-01_21-26-54%20(1).gif)
 
