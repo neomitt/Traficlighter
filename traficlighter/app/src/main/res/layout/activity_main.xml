@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5C5959"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        app:srcCompat="@drawable/trfli" />
+
+    <Button
+        android:id="@+id/buttonred1"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="-432dp"
+        android:backgroundTint="#00E81A1A"
+        android:onClick="onClick"
+        android:text="ㅤ"
+        android:textColor="#00FFFFFF"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="295dp" />
+
+    <Button
+        android:id="@+id/buttonyellow2"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#00E81A1A"
+        android:onClick="onClick"
+        android:text="2"
+        android:textColor="#00FFFFFF"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="58dp" />
+
+    <Button
+        android:id="@+id/buttongreen3"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#00E81A1A"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:text="3"
+        android:textColor="#00FFFFFF"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+
+</LinearLayout>
